@@ -1,0 +1,13 @@
+How to set it up
+
+1. npm install eris | You will need node js - https://nodejs.org/en/
+
+2.Replace where it says BOT_TOKEN_HERE with a token from https://discordapp.com/developers/applications (New application)
+
+3.Invite the bot to your discord server | https://discordapp.com/developers/applications/YOUR_BOT_ID_HERE/oauth2
+
+3.Start the app by opening cmd and type | node .
+
+4.Type in the discord server !ping
+
+5.You have a starter discord bot
