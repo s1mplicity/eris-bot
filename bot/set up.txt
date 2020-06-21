@@ -6,10 +6,8 @@ How to set it up
 
 3.Invite the bot to your discord server | https://discordapp.com/developers/applications/YOUR_BOT_ID_HERE/oauth2
 
-4. Run:  npm i eris
+4.Start the app by opening cmd and type | node .
 
-5.Start the app by opening cmd and type | node .
+5.Type in the discord server !ping
 
-6.Type in the discord server !ping
-
-7.You have a starter discord bot
+6.You have a starter discord bot
